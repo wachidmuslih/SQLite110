@@ -1,3 +1,10 @@
 <resources>
     <string name="app_name">SQLite110</string>
+    <string name="tdeletedata">Delete</string>
+    <string name="tsimpan">Save</string>
+    <string name="tcancel">Cancel</string>
+    <string name="tnama">Nama</string>
+    <string name="tnotel">No Telepon</string>
+    <string name="tcreatedata">Create Data</string>
+    <string name="tview">View</string>
 </resources>
